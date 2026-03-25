@@ -22,14 +22,6 @@
 
 ### Three-Tier Architecture:
 * **Frontend:** Flutter-based Mobile App.
-* **Logic:** Predictive Inventory tracking. A `Restock_Order` triggers when items fall below **30% Safety Stock**.
-* **Backend:** Firebase & Cloud Functions with IoT integration.
- 
-* **Frontend:** Flutter-based Mobile App.
-
-**The User says:** "I'm almost out of Tomatoes."
-2.  **The Farm (UPM Plot A) says:** "My Tomatoes are perfectly ripe today."
-3.  **The Connection:** The app connects the two automatically. People get the freshest food, and farmers don't worry about buyers.
 
     Predictive Inventory: The app tracks the "Depletion Rate" of pantry items.
     Threshold Trigger: A Restock_Order is automatically generated when any item falls below the 30% Safety Stock level.
@@ -41,9 +33,9 @@
   Integration: Connects the "Pantry Need" to the "Soil Readiness."
  
 * **Backend:** Firebase & Cloud Functions with IoT integration.
-  Sensory Input: Real-time NPK Sensors (Nitrogen, Phosphorus, Potassium) transmit soil health data via MQTT protocol
-  Data Integrity: We use SHA-256 Hashing to create a "Soil Fingerprint." This creates a digital birth certificate for the vegetable, proving its nutrient density and origin.
-  Blockchain Simulation: Every harvest batch ID is stored on an immutable ledger to prevent "Greenwashing" or data tampering.
+    Sensory Input: Real-time NPK Sensors (Nitrogen, Phosphorus, Potassium) transmit soil health data via MQTT protocol
+    Data Integrity: We use SHA-256 Hashing to create a "Soil Fingerprint." This creates a digital birth certificate for the vegetable, proving its nutrient density and origin.
+    Blockchain Simulation: Every harvest batch ID is stored on an immutable ledger to prevent "Greenwashing" or data tampering.
 
 
 How do you know if your vegetables are actually healthy? Every farm in our system has Soil Sensors. These sensors measure the "nutrients" in the dirt (Nitrogen, Phosphorus, Potassium). When you scan the QR code on your delivery, the app shows you a "Soil Fingerprint." This is digital proof that your food grew in high-quality soil. We use Blockchain technology to make sure this data can’t be faked or changed by anyone.
