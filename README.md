@@ -26,9 +26,14 @@
 * **Backend:** Firebase & Cloud Functions with IoT integration.
  
 * **Frontend:** Flutter-based Mobile App.
-Predictive Inventory: The app tracks the "Depletion Rate" of pantry items.
-Threshold Trigger: A Restock_Order is automatically generated when any item falls below the 30% Safety Stock level.
-User Interface: A high-fidelity dashboard built in Figma, transitioning to a Flutter frontend.
+
+**The User says:** "I'm almost out of Tomatoes."
+2.  **The Farm (UPM Plot A) says:** "My Tomatoes are perfectly ripe today."
+3.  **The Connection:** The app connects the two automatically. People get the freshest food, and farmers don't worry about buyers.
+
+    Predictive Inventory: The app tracks the "Depletion Rate" of pantry items.
+    Threshold Trigger: A Restock_Order is automatically generated when any item falls below the 30% Safety Stock level.
+    User Interface: A high-fidelity dashboard built in Figma, transitioning to a Flutter frontend.
  
 * **Logic:** Predictive Inventory tracking. A `Restock_Order` triggers when items fall below **30% Safety Stock**.
   Database: Google Firebase Firestore stores real-time inventory levels and farmer crop status.
