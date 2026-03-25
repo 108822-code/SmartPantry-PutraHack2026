@@ -26,25 +26,26 @@
  **Backend:** Firebase & Cloud Functions with IoT integration.
  
 * **Frontend:** Flutter-based Mobile App.
- Predictive Inventory: The app tracks the "Depletion Rate" of pantry items.
- Threshold Trigger: A Restock_Order is automatically generated when any item falls below the 30% Safety Stock level.
- User Interface: A high-fidelity dashboard built in Figma, transitioning to a Flutter frontend.
+  Predictive Inventory: The app tracks the "Depletion Rate" of pantry items.
+  Threshold Trigger: A Restock_Order is automatically generated when any item falls below the 30% Safety Stock level.
+  User Interface: A high-fidelity dashboard built in Figma, transitioning to a Flutter frontend.
  
 * **Logic:** Predictive Inventory tracking. A `Restock_Order` triggers when items fall below **30% Safety Stock**.
- Database: Google Firebase Firestore stores real-time inventory levels and farmer crop status.
- Matching Algorithm: When a pantry is low, the backend runs a Geo-Query to find the nearest farm (within 30km) that has a "Harvest Ready" status for that specific crop.
- Integration: Connects the "Pantry Need" to the "Soil Readiness."
+  Database: Google Firebase Firestore stores real-time inventory levels and farmer crop status.
+  Matching Algorithm: When a pantry is low, the backend runs a Geo-Query to find the nearest farm (within 30km) that has a "Harvest Ready" status for that specific crop.
+  Integration: Connects the "Pantry Need" to the "Soil Readiness."
  
 * **Backend:** Firebase & Cloud Functions with IoT integration.
- Sensory Input: Real-time NPK Sensors (Nitrogen, Phosphorus, Potassium) transmit soil health data via MQTT protocol.
-Data Integrity: We use SHA-256 Hashing to create a "Soil Fingerprint." This creates a digital birth certificate for the vegetable, proving its nutrient density and origin.
- Blockchain Simulation: Every harvest batch ID is stored on an immutable ledger to prevent "Greenwashing" or data tampering.
+  Sensory Input: Real-time NPK Sensors (Nitrogen, Phosphorus, Potassium) transmit soil health data via MQTT protocol
+  Data Integrity: We use SHA-256 Hashing to create a "Soil Fingerprint." This creates a digital birth certificate for the vegetable, proving its nutrient density and origin.
+  Blockchain Simulation: Every harvest batch ID is stored on an immutable ledger to prevent "Greenwashing" or data tampering.
 
- How do you know if your vegetables are actually healthy? Every farm in our system has Soil Sensors. These sensors measure the "nutrients" in the dirt (Nitrogen, Phosphorus, Potassium). When you scan the QR code on your delivery, the app shows you a "Soil Fingerprint." This is digital proof that your food grew in high-quality soil. We use Blockchain technology to make sure this data can’t be faked or changed by anyone.
+
+How do you know if your vegetables are actually healthy? Every farm in our system has Soil Sensors. These sensors measure the "nutrients" in the dirt (Nitrogen, Phosphorus, Potassium). When you scan the QR code on your delivery, the app shows you a "Soil Fingerprint." This is digital proof that your food grew in high-quality soil. We use Blockchain technology to make sure this data can’t be faked or changed by anyone.
 
 
 ## Core Algorithms & Logic
-**To move beyond a simple shopping app, the system uses two mathematical models:
+ **To move beyond a simple shopping app, the system uses two mathematical models:
 
 * **I. Inventory Prediction Formula**
  The app calculates the Estimated Days Remaining (EDR):
