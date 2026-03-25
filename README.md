@@ -1,9 +1,8 @@
-# 🥗 SmartPantry-PutraHack2026 
+#  SmartPantry-PutraHack2026 
 ### *Theme: Pertanian Untuk Rakyat (Agriculture for the People)*
 
 **Lead Developer:** Alia Sopiana anak Dundang
 
----
 
 ## Project Vision
 **SmartPantry** is a predictive ecosystem that bridges the gap between urban consumption and rural production. By using **IoT soil data** and **Inventory Tracking**, we eliminate food waste and guarantee income for local farmers.
@@ -12,7 +11,7 @@
 * **The Solution:** We built a bridge. Your pantry "talks" to the soil sensors at the farm.
 * **The Technology:** We use simple math to predict when you'll run out of food and IoT sensors to prove the soil is healthy.
 
----
+
 
 ## Technical Architecture
 > *"Think of this like **Tinder for Food**."*
@@ -26,9 +25,9 @@
 * **Logic:** Predictive Inventory tracking. A `Restock_Order` triggers when items fall below **30% Safety Stock**.
 * **Backend:** Firebase & Cloud Functions with IoT integration.
 
----
 
-## 🎨 Design & Demo
+
+##  Design & Demo
 * **Figma Prototype:** [Click here to view the design](https://www.figma.com/make/mcO6ed1ePDRFr8xetuECh7/PutraHack-2026-Mobile-App?t=z1yCthshLdWcvfsV-1&preview-route=%2Fsoil-fingerprint)
 * **Video Demo:**
   
