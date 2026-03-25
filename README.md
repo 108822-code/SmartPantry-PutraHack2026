@@ -48,3 +48,6 @@ Transparency: Consumers can scan a QR code to see the actual soil health of thei
 
 https://github.com/user-attachments/assets/7d337010-eded-48ca-8f1a-aa0be6d0371d
 
+Design Prototype
+You can view the high-fidelity dashboard and mobile app flow on Figma:
+[View Figma Prototype](https://www.figma.com/make/mcO6ed1ePDRFr8xetuECh7/PutraHack-2026-Mobile-App?t=z1yCthshLdWcvfsV-1&preview-route=%2Fsoil-fingerprint)
