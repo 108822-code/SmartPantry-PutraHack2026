@@ -1,5 +1,5 @@
 # 🥗 SmartPantry-PutraHack2026 
-### *Theme:FoodSecurity*
+### *Theme:FoodSecurity (Agriculture for the People)*
 
 **Lead Developer:** Alia Sopiana anak Dundang
 
