@@ -59,7 +59,10 @@ $$SHI = (0.4 \cdot N) + (0.3 \cdot P) + (0.3 \cdot K)$$
 
 
 ##  Design & Demo
-* **Figma Prototype:** [Click here to view the design](https://www.figma.com/make/mcO6ed1ePDRFr8xetuECh7/PutraHack-2026-Mobile-App?t=z1yCthshLdWcvfsV-1&preview-route=%2Fsoil-fingerprint)
+* **LOvable Prototype:** [Click here to view the design](https://id-preview--108a6b15-f9eb-4986-9005-47f949e476d9.lovable.app/?__lovable_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZXJiRTgxRjlDUVNjMG53YUJ3Q0NxZzFUY3kwMiIsInByb2plY3RfaWQiOiIxMDhhNmIxNS1mOWViLTQ5ODYtOTAwNS00N2Y5NDllNDc2ZDkiLCJhY2Nlc3NfdHlwZSI6InByb2plY3QiLCJpc3MiOiJsb3ZhYmxlLWFwaSIsInN1YiI6IjEwOGE2YjE1LWY5ZWItNDk4Ni05MDA1LTQ3Zjk0OWU0NzZkOSIsImF1ZCI6WyJsb3ZhYmxlLWFwcCJdLCJleHAiOjE3NzUwNjA3MDYsIm5iZiI6MTc3NDQ1NTkwNiwiaWF0IjoxNzc0NDU1OTA2fQ.MCVKKPXAT3SaUm5kTiebRu6o-VtBICSSiweYZ_w7KK6x7KYjhhWk-0ehdn5KqK6fhCXb-bLy_r4NpM3BDTmYl0ioL2Gezg6Ggjn5SgfZVFJGahrnaHd3Yt_Z0jO4AQWKOHucMaAOh6i9FN35O1pAGAN3pRskGeYfo2eg-9dnrjonF2nk12Urro-dqstOV44JXwQvnS5fLyKF5ydlh886ZgejZHsdsEcB5LBZWUfMFElUUL8Yvx5u_jvazPeejQZQ4dHuPQGK36ParCNCDxOhEkO3OTLNFxb-aeA2pem8iW28PcltDszgTe-iBU8zdJYr_w_lT-s29vjIU_6ESe9nhwksOrPTJogGTxoGlx2wtuEzt5Y7cUtBLUELIdZnctWQAkfL5VlKPPaAaHZGoT78HnuDffEbNVMm_7OolQ1663C64Nkf7wYbc_Axy4Zh3ZVRgysmMKR4hKfZwSNdQBx1cCa3UZH81rJ5sV2lRmK76ZMbIBbF556wrQfTd1kEv_DbkoFFRIx2zuQsdBXPcwGtfWy5bxiOScj6IpGnfvf3kAf1DV4y5DVs1bW68Jr7SWFNuBKQHrvi3Q8pbaY4KhPMaTgp4oebbgGAZf0qLfaPNQmbqDVAuRu6zYVISGWmZeXYkqscOkiypvbiYiJY5J5JX6dr6EKnAgt7ODc8xn_FgRI)
 * **Video Demo:**
 
-https://github.com/user-attachments/assets/cbed190b-4bb7-42e4-981f-148a6266cc93
+
+https://github.com/user-attachments/assets/04c659ca-a0f0-4696-bff4-e58a365c95a4
+
+
