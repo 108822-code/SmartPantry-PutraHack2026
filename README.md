@@ -21,9 +21,9 @@
 3.  **The Connection:** The app connects the two automatically. People get the freshest food, and farmers don't worry about buyers.
 
 ### Three-Tier Architecture:
- **Frontend:** Flutter-based Mobile App.
- **Logic:** Predictive Inventory tracking. A `Restock_Order` triggers when items fall below **30% Safety Stock**.
- **Backend:** Firebase & Cloud Functions with IoT integration.
+* **Frontend:** Flutter-based Mobile App.
+* **Logic:** Predictive Inventory tracking. A `Restock_Order` triggers when items fall below **30% Safety Stock**.
+* **Backend:** Firebase & Cloud Functions with IoT integration.
  
 * **Frontend:** Flutter-based Mobile App.
 Predictive Inventory: The app tracks the "Depletion Rate" of pantry items.
