@@ -31,4 +31,8 @@
 ## 🎨 Design & Demo
 * **Figma Prototype:** [Click here to view the design](https://www.figma.com/make/mcO6ed1ePDRFr8xetuECh7/PutraHack-2026-Mobile-App?t=z1yCthshLdWcvfsV-1&preview-route=%2Fsoil-fingerprint)
 * **Video Demo:**
-* https://github.com/user-attachments/assets/970a576a-eae8-4dea-bb5f-16d7afcdd1ec
+  
+
+https://github.com/user-attachments/assets/cbed190b-4bb7-42e4-981f-148a6266cc93
+
+
