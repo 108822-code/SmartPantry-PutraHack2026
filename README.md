@@ -24,17 +24,17 @@
 * **Frontend:** Flutter-based Mobile App.
 * **Logic:** Predictive Inventory tracking. A `Restock_Order` triggers when items fall below **30% Safety Stock**.
 * **Backend:** Firebase & Cloud Functions with IoT integration.
-
+* 
 * **Frontend:** Flutter-based Mobile App.
 * Predictive Inventory: The app tracks the "Depletion Rate" of pantry items.
 * Threshold Trigger: A Restock_Order is automatically generated when any item falls below the 30% Safety Stock level.
 * User Interface: A high-fidelity dashboard built in Figma, transitioning to a Flutter frontend.
-
+* 
 * **Logic:** Predictive Inventory tracking. A `Restock_Order` triggers when items fall below **30% Safety Stock**.
 * Database: Google Firebase Firestore stores real-time inventory levels and farmer crop status.
 * Matching Algorithm: When a pantry is low, the backend runs a Geo-Query to find the nearest farm (within 30km) that has a "Harvest Ready" status for that specific crop.
 * Integration: Connects the "Pantry Need" to the "Soil Readiness."
-
+* 
 * **Backend:** Firebase & Cloud Functions with IoT integration.
 * Sensory Input: Real-time NPK Sensors (Nitrogen, Phosphorus, Potassium) transmit soil health data via MQTT protocol.
 * Data Integrity: We use SHA-256 Hashing to create a "Soil Fingerprint." This creates a digital birth certificate for the vegetable, proving its nutrient density and origin.
