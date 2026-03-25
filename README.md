@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 Project Vision
+## Project Vision
 **SmartPantry** is a predictive ecosystem that bridges the gap between urban consumption and rural production. By using **IoT soil data** and **Inventory Tracking**, we eliminate food waste and guarantee income for local farmers.
 
 * **The Problem:** "Malaysians waste too much food because we don't track our pantry, and our farmers struggle to prove their food quality."
@@ -14,7 +14,7 @@
 
 ---
 
-## ⚙️ Technical Architecture
+## Technical Architecture
 > *"Think of this like **Tinder for Food**."*
 
 1.  **The User says:** "I'm almost out of Tomatoes."
@@ -30,4 +30,5 @@
 
 ## 🎨 Design & Demo
 * **Figma Prototype:** [Click here to view the design](https://www.figma.com/make/mcO6ed1ePDRFr8xetuECh7/PutraHack-2026-Mobile-App?t=z1yCthshLdWcvfsV-1&preview-route=%2Fsoil-fingerprint)
-* **Video Demo:** (https://github.com/user-attachments/assets/970a576a-eae8-4dea-bb5f-16d7afcdd1ec)
+* **Video Demo:**
+* https://github.com/user-attachments/assets/970a576a-eae8-4dea-bb5f-16d7afcdd1ec
